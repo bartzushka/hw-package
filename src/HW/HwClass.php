@@ -8,7 +8,7 @@ class HwClass
 {
     public function __construct()
     {
-        echo __CLASS__.' was construct';
+        echo __CLASS__.' was construct'.PHP_EOL;
     }
 
     public function run()
