@@ -2,6 +2,7 @@
     "name": "bartzushka/hw-package",
     "description": "Homework test package",
     "type": "library",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Alexandr",
