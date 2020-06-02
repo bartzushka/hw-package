@@ -1,7 +1,7 @@
 <?php
 
 
-namespace HW;
+namespace Hw;
 
 
 class HwClass
