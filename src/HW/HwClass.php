@@ -13,7 +13,7 @@ class HwClass
 
     public function run()
     {
-        echo "Hello it`s output of run() method from hw package";
+        echo "Hello it`s output of run() method from ".__CLASS__.PHP_EOL;
     }
 
 }
